@@ -160,6 +160,6 @@ Glen Steven Paulo Alcano
 
 Aspiring Data Analyst | Power BI | SQL | Excel | Python
 
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: www.linkedin.com/in/alcanoglenstevenpaulo03
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/glenalcano321-hue
