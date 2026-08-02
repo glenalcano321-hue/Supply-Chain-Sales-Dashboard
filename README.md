@@ -114,13 +114,13 @@ Dashboard Preview
 
 Supply Chain Operations Dashboard
 
-![Operations Dashboard](Dashboard1.png)
+![Operations Dashboard](Dashboard2.png)
 
 ---
 
 Sales & Profit Performance Dashboard
 
-![Sales Dashboard](Dashboard2.png)
+![Sales Dashboard](Dashboard1.png)
 
 ---
 
